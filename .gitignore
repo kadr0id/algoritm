@@ -1,0 +1,12 @@
+*.iml
+
+## Directory-based project format:
+.idea/
+
+*.ipr
+*.iws
+
+# IntelliJ
+/out/
+
+.idea_modules/

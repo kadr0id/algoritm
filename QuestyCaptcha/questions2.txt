@@ -1,0 +1,14 @@
+What is (.*?) .*?'s first name
+Please write the magic secret, \"(.*?)\"
+Please enter \(.*?)\,
+Type the code word,(.*?),
+Type '(.*?)',
+What command could you type to find out more about the character '(.*?)'
+Skriv venligst kodeordet \"(.*?)\"
+Skriv venligst ordet \"(.*?)\"
+Scrivi il numero: (.*?), qui
+Escreve esta palavra, \"(.*?)\", aqu
+La clave mas conocida, \"(.*?)\", aqu
+Escreva a palavra secreta, \"(.*?)\", aqu
+Escreva o código, (.*?), aqu
+please type \"(.*?)\" below
